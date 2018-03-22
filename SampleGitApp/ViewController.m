@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"NewBranch");
-
+NSLog(@"Hello");
+    NSLog(@"Hai");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -25,6 +26,8 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     NSLog(@"Hello");
+    NSLog(@"Hello");
+    NSLog(@"Hai");
     // Dispose of any resources that can be recreated.
 }
 
